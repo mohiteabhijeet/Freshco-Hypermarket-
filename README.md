@@ -3,7 +3,7 @@ Freshco Hypermarket, situated in HSR, Bangalore, has established itself as a pro
 
 In this project I have performed data analysis with availabe datasets to analyze performance at order level, completion rate, customer level and at delivery level. 
 
-To perform this analysis I have used Microsoft Excel as a primary tool and Microsoft Word to summarize my findings; in addition to this I have created a video presentation to share my findings about this project. 
+To perform this analysis I have used Microsoft Excel as a primary tool and Microsoft Word to summarize my findings; in addition to this I have created a video presentation using Microsoft PowerPoint to share my findings about this project. 
 
 Data Cleaning: Meticulously scrubbing and preparing raw data for analysis, ensuring accuracy and reliability.
 
@@ -14,3 +14,5 @@ Data Modeling: Developing robust models to extract insights and forecast trends,
 Data Transformation: Converting raw data into actionable insights through strategic transformation techniques.
 
 Visualization Creation: Crafting compelling visual representations of data using advanced charting and graphing tools, enhancing comprehension and presentation.
+
+Microsoft PowerPoint: Created video presentation to demonstrate my findings.
